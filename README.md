@@ -1,7 +1,7 @@
 # Watchlist Application
 
 A full-stack media tracker inspired by Letterboxd and MyAnimeList. Track movies, TV shows, and anime, manage your personal watchlist, and monitor your watching progress.
-
+Live demo-https://watchlist-frontend-dywa.onrender.com/
 ## Prerequisites
 
 Before running the application, make sure you have the following installed on your machine:
